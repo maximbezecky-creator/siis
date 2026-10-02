@@ -1,0 +1,32 @@
+{
+  "next_session": {
+    "date": "2026-10-15",
+    "day": 28,
+    "month": "жовтня",
+    "year": 2026,
+    "day_of_week": "середа",
+    "time": "17:30",
+    "duration_min": 60,
+    "format": "online",
+    "psychologist_id": "psy_001",
+    "psychologist_name": "Коваленко Вероніка",
+    "location": {
+      "type": "online",
+      "address": null
+    },
+    "bring_with_you": {
+      "title": "Що необхідно мати при зустрічі",
+      "items": [
+        { "icon": "id-card", "text": "Паспорт або ID-картку" },
+        { "icon": "file",    "text": "Результати аналізів" },
+        { "icon": "note",    "text": "Нотатки з попередньої сесії" },
+        { "icon": "list",    "text": "Список питань, які хочете обговорити" }
+      ],
+      "note": "Якщо сесія онлайн — перевірте камеру, мікрофон та стабільний інтернет."
+    },
+    "actions": {
+      "reschedule_url": "#/psychologist/reschedule",
+      "cancel_url":     "#/psychologist/cancel"
+    }
+  }
+}

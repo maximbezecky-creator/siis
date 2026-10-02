@@ -1,0 +1,959 @@
+{
+  "specialists": [
+    {
+      "id": 1,
+      "name": "Євген Мілер",
+      "position": "технічний фахівець",
+      "phones": ["+500 30 303", "089 050 5050"],
+      "avatar": "~/Downloads/ssd/miller-evg.jpg",
+      "schedule": [
+        {
+          "date": "2026-09-10",
+          "time": "10:00",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-12",
+          "time": "15:30",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-17",
+          "time": "11:00",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-22",
+          "time": "09:30",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-28",
+          "time": "16:00",
+          "in_person": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Єлизавета Байда",
+      "position": "технічний фахівець та представник у м. Чернігові",
+      "phones": ["+500 50 505", "046 2830 181"],
+      "avatar": "~/Downloads/ssd/єлизавета.png",
+      "schedule": [
+        {
+          "date": "2026-09-11",
+          "time": "12:00",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-14",
+          "time": "10:30",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-21",
+          "time": "14:00",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-29",
+          "time": "08:30",
+          "in_person": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Дмитро Знайда",
+      "position": "технічний фахівець",
+      "phones": ["+500 05 050"],
+      "avatar": "~/Downloads/ssd/дмитро.jpeg",
+      "schedule": [
+        {
+          "date": "2026-09-10",
+          "time": "08:00",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-13",
+          "time": "17:00",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-18",
+          "time": "09:00",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-24",
+          "time": "14:30",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-30",
+          "time": "11:30",
+          "in_person": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Генадій Ларін",
+      "position": "технічний фахівець",
+      "phones": ["091 444 3233"],
+      "avatar": "~/Downloads/ssd/гена.png",
+      "schedule": [
+        {
+          "date": "2026-09-12",
+          "time": "13:00",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-16",
+          "time": "10:00",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-20",
+          "time": "15:30",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-26",
+          "time": "09:00",
+          "in_person": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Катерина Бондаренко",
+      "position": "Служба підтримки",
+      "phones": ["+500 99 999"],
+      "avatar": "~/Downloads/ssd/катерина.jpg",
+      "schedule": [
+        {
+          "date": "2026-09-10",
+          "time": "11:30",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-15",
+          "time": "08:30",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-19",
+          "time": "13:00",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-23",
+          "time": "16:30",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-28",
+          "time": "10:00",
+          "in_person": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Михайло Коваленко",
+      "position": "Служба підтримки",
+      "phones": ["+500 85 858"],
+      "avatar": "~/Downloads/ssd/михаил.jpg",
+      "schedule": [
+        {
+          "date": "2026-09-11",
+          "time": "09:00",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-13",
+          "time": "14:00",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-18",
+          "time": "10:30",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-22",
+          "time": "12:00",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-29",
+          "time": "15:00",
+          "in_person": true
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Вероніка Коваленко",
+      "position": "Кліничний психолог",
+      "phones": ["+500 00 232", "089 007 0707"],
+      "avatar": "~/Downloads/ssd/вероника.png",
+      "schedule": [
+        {
+          "date": "2026-09-10",
+          "time": "16:00",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-14",
+          "time": "11:30",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-21",
+          "time": "09:30",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-27",
+          "time": "17:00",
+          "in_person": false
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Анастасія Ткаченко",
+      "position": "Психолог",
+      "phones": ["+500 49 494"],
+      "avatar": "~/Downloads/ssd/анастатия.jpeg",
+      "schedule": [
+        {
+          "date": "2026-09-12",
+          "time": "08:30",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-15",
+          "time": "13:30",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-17",
+          "time": "10:00",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-25",
+          "time": "12:30",
+          "in_person": false
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Олена Марковська",
+      "position": "Психолог загальної практики",
+      "phones": ["077 414 7050"],
+      "avatar": "~/Downloads/ssd/olena.png",
+      "schedule": [
+        {
+          "date": "2026-09-11",
+          "time": "15:30",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-16",
+          "time": "09:00",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-19",
+          "time": "11:00",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-24",
+          "time": "14:30",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-30",
+          "time": "08:00",
+          "in_person": true
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Андрій Шерудило",
+      "position": "Клінічний психолог та невролог",
+      "phones": ["075 595 9590"],
+      "avatar": "~/Downloads/ssd/андрій.png",
+      "schedule": [
+        {
+          "date": "2026-09-10",
+          "time": "13:00",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-12",
+          "time": "17:30",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-20",
+          "time": "10:30",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-26",
+          "time": "08:30",
+          "in_person": false
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Дмитро Бойко",
+      "position": "Технічний фахівець МЕДІАЛІНК",
+      "phones": ["+500 30 303"],
+      "avatar": "~/Downloads/ssd/дмитро2.png",
+      "schedule": [
+        {
+          "date": "2026-09-13",
+          "time": "09:30",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-15",
+          "time": "12:00",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-18",
+          "time": "16:30",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-22",
+          "time": "08:00",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-29",
+          "time": "11:00",
+          "in_person": true
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Анжеліка Чапаєва",
+      "position": "Секретар",
+      "phones": ["+500 44 444", "089 049 4949"],
+      "avatar": "",
+      "schedule": [
+        {
+          "date": "2026-09-10",
+          "time": "14:00",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-14",
+          "time": "10:00",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-21",
+          "time": "09:00",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-28",
+          "time": "12:30",
+          "in_person": true
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Марк Мороз",
+      "position": "Представник у м. Запоріжжі",
+      "phones": ["+500 82 828"],
+      "avatar": "~/Downloads/ssd/марк.webp",
+      "schedule": [
+        {
+          "date": "2026-09-11",
+          "time": "08:00",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-17",
+          "time": "12:30",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-23",
+          "time": "14:30",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-27",
+          "time": "16:00",
+          "in_person": false
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Юлія Приходько",
+      "position": "Представник у м. Харкові",
+      "phones": ["+500 88 888"],
+      "avatar": "~/Downloads/ssd/юлия.webp",
+      "schedule": [
+        {
+          "date": "2026-09-10",
+          "time": "09:30",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-12",
+          "time": "14:00",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-19",
+          "time": "11:30",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-24",
+          "time": "08:30",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-30",
+          "time": "13:00",
+          "in_person": true
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Володимир Романенко",
+      "position": "Представник у м. Києві",
+      "phones": ["+500 93 939"],
+      "avatar": "~/Downloads/ssd/Володимир.png",
+      "schedule": [
+        {
+          "date": "2026-09-11",
+          "time": "13:30",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-16",
+          "time": "08:00",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-20",
+          "time": "10:00",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-25",
+          "time": "15:30",
+          "in_person": false
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Світлана Павленко",
+      "position": "Представник у м. Львові",
+      "phones": ["+500 38 383"],
+      "avatar": "~/Downloads/ssd/Світлана.png",
+      "schedule": [
+        {
+          "date": "2026-09-10",
+          "time": "15:00",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-13",
+          "time": "09:30",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-18",
+          "time": "12:00",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-22",
+          "time": "16:00",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-29",
+          "time": "10:30",
+          "in_person": true
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Богдан Сидоренко",
+      "position": "Сіноптик",
+      "phones": ["+500 52 525"],
+      "avatar": "~/Downloads/ssd/Богдан.png",
+      "schedule": [
+        {
+          "date": "2026-09-12",
+          "time": "11:00",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-15",
+          "time": "14:30",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-21",
+          "time": "08:30",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-26",
+          "time": "09:00",
+          "in_person": true
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Тетяна Грищенко",
+      "position": "Медичний консультант",
+      "phones": ["+500 56 565"],
+      "avatar": "~/Downloads/ssd/Тетяна.png",
+      "schedule": [
+        {
+          "date": "2026-09-10",
+          "time": "12:30",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-14",
+          "time": "16:00",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-19",
+          "time": "09:30",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-23",
+          "time": "13:30",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-28",
+          "time": "15:00",
+          "in_person": true
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Євген Карпенко",
+      "position": "Юридичний консультант",
+      "phones": ["+500 24 242"],
+      "avatar": "~/Downloads/ssd/євген.png",
+      "schedule": [
+        {
+          "date": "2026-09-11",
+          "time": "10:30",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-16",
+          "time": "13:00",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-20",
+          "time": "08:00",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-25",
+          "time": "11:30",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-30",
+          "time": "14:00",
+          "in_person": true
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Максим Чорних",
+      "position": "Технічна підтримка",
+      "phones": ["+500 14 141"],
+      "avatar": "~/Downloads/ssd/максим.png",
+      "schedule": [
+        {
+          "date": "2026-09-10",
+          "time": "08:30",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-12",
+          "time": "10:00",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-17",
+          "time": "15:00",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-22",
+          "time": "11:00",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-28",
+          "time": "09:00",
+          "in_person": false
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Олександр Хорушко",
+      "position": "Підтримка телебачення та радіо",
+      "phones": ["+500 92 929"],
+      "avatar": "~/Downloads/ssd/олександр.png",
+      "schedule": [
+        {
+          "date": "2026-09-11",
+          "time": "09:30",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-13",
+          "time": "14:30",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-18",
+          "time": "10:30",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-24",
+          "time": "13:00",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-29",
+          "time": "16:30",
+          "in_person": true
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Павло Волощук",
+      "position": "спеціаліст в області радіотехніки",
+      "phones": ["+500 76 767"],
+      "avatar": "~/Downloads/ssd/павло.png",
+      "schedule": [
+        {
+          "date": "2026-09-10",
+          "time": "11:30",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-15",
+          "time": "08:00",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-19",
+          "time": "12:30",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-23",
+          "time": "09:30",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-30",
+          "time": "15:30",
+          "in_person": false
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Катерина Лещенко",
+      "position": "бухгалтер",
+      "phones": ["+500 35 353"],
+      "avatar": "~/Downloads/ssd/катерина2.png",
+      "schedule": [
+        {
+          "date": "2026-09-11",
+          "time": "12:00",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-14",
+          "time": "15:00",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-20",
+          "time": "09:00",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-26",
+          "time": "13:30",
+          "in_person": false
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Максим Богданов",
+      "position": "Засновник ЛІНКОМ-3000 та технічний спеціаліст у Кушугумі",
+      "phones": ["+500 09 999"],
+      "avatar": "",
+      "schedule": [
+        {
+          "date": "2026-09-10",
+          "time": "14:30",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-16",
+          "time": "11:00",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-21",
+          "time": "10:00",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-27",
+          "time": "08:30",
+          "in_person": false
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Ніна Прокопенко",
+      "position": "представник компанії у Кушугумі",
+      "phones": ["089 977 9770"],
+      "avatar": "~/Downloads/ssd/ніна.png",
+      "schedule": [
+        {
+          "date": "2026-09-12",
+          "time": "10:30",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-17",
+          "time": "09:00",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-22",
+          "time": "14:00",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-28",
+          "time": "11:30",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-30",
+          "time": "10:00",
+          "in_person": true
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Олександра Нова",
+      "position": "психіатр та психолог для літніх людей",
+      "phones": ["+500 55 228"],
+      "avatar": "~/Downloads/ssd/olexandra.png",
+      "schedule": [
+        {
+          "date": "2026-09-10",
+          "time": "09:00",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-13",
+          "time": "13:00",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-18",
+          "time": "08:30",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-23",
+          "time": "12:00",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-29",
+          "time": "14:30",
+          "in_person": true
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Наталія Білицька",
+      "position": "технічна підтримка",
+      "phones": ["+500 90 092"],
+      "avatar": "~/Downloads/ssd/natalia.png",
+      "schedule": [
+        {
+          "date": "2026-09-11",
+          "time": "08:00",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-15",
+          "time": "16:30",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-19",
+          "time": "09:30",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-24",
+          "time": "11:00",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-30",
+          "time": "08:30",
+          "in_person": false
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Галина Ганжа",
+      "position": "технічна підтримка",
+      "phones": ["+500 07 188"],
+      "avatar": "~/Downloads/ssd/галина.png",
+      "schedule": [
+        {
+          "date": "2026-09-10",
+          "time": "13:30",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-14",
+          "time": "09:00",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-20",
+          "time": "10:30",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-25",
+          "time": "12:30",
+          "in_person": false
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Ульяна Міцна",
+      "position": "юристка",
+      "phones": ["+500 40 404"],
+      "avatar": "~/Downloads/ssd/ульяна.png",
+      "schedule": [
+        {
+          "date": "2026-09-11",
+          "time": "11:00",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-16",
+          "time": "08:30",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-21",
+          "time": "13:00",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-26",
+          "time": "10:00",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-30",
+          "time": "09:30",
+          "in_person": true
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Єлизавета Панчих",
+      "position": "представник у Космічному районі м. Запоріжжя",
+      "phones": ["089 570 5709"],
+      "avatar": "",
+      "schedule": [
+        {
+          "date": "2026-09-12",
+          "time": "09:30",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-17",
+          "time": "14:30",
+          "in_person": false
+        },
+        {
+          "date": "2026-09-22",
+          "time": "08:00",
+          "in_person": true
+        },
+        {
+          "date": "2026-09-28",
+          "time": "12:00",
+          "in_person": false
+        }
+      ]
+    }
+  ]
+}

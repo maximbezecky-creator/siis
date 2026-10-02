@@ -1,0 +1,9 @@
+{
+  "user_id": "user_12345",
+  "specialist_id": 1,
+  "appointment_date": "2026-10-03",
+  "appointment_time": "13:50",
+  "meeting_type": "online",
+  "call_option": "call_self",
+  "timestamp": "2026-09-04T14:32:10.123Z"
+}

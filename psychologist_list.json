@@ -1,0 +1,30 @@
+{
+  "psychologists": [
+    {
+      "id": "psy_001",
+      "full_name": "Коваленко Вероніка Степанівна",
+      "specialization": "Клінічний психолог",
+      "experience_years": 15,
+      "photo": "https://cdn.example.com/psy/001.jpg",
+      "rating": 4.9,
+      "sessions_done": 4521,
+      "status": "active",
+      "next_session": "15 жовтня 2026, 14:30",
+      "languages": ["українська", "російська"],
+      "topics": ["тривожність", "стрес", "стосунки"]
+    },
+    {
+      "id": "psy_002",
+      "full_name": "Шевченко Ігор Васильович",
+      "specialization": "Психотерапевт, КПТ",
+      "experience_years": 12,
+      "photo": "https://cdn.example.com/psy/002.jpg",
+      "rating": 4.8,
+      "sessions_done": 4,
+      "status": "previous",
+      "last_session": "02 вересня 2026",
+      "languages": ["українська"],
+      "topics": ["депресія", "самооцінка"]
+    }
+  ]
+}

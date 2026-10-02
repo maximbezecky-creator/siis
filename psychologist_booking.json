@@ -1,0 +1,20 @@
+{
+  "available_slots": [
+    { "id": "slot_101", "date": "2026-10-20", "day_of_week": "понеділок", "time": "10:00", "psychologist_id": "psy_001", "format": "online" },
+    { "id": "slot_102", "date": "2026-10-20", "day_of_week": "понеділок", "time": "16:00", "psychologist_id": "psy_001", "format": "online" },
+    { "id": "slot_103", "date": "2026-10-22", "day_of_week": "середа",    "time": "14:30", "psychologist_id": "psy_001", "format": "in_person" },
+    { "id": "slot_104", "date": "2026-10-24", "day_of_week": "п’ятниця",  "time": "11:00", "psychologist_id": "psy_002", "format": "online" }
+  ],
+  "formats": [
+    { "id": "online",    "title": "Онлайн",   "icon": "video" },
+    { "id": "in_person", "title": "Особисто", "icon": "user"  }
+  ],
+  "topics": [
+    { "id": "anxiety",   "title": "Тривожність" },
+    { "id": "stress",    "title": "Стрес і вигорання" },
+    { "id": "relations", "title": "Стосунки" },
+    { "id": "self",      "title": "Самооцінка" },
+    { "id": "other",     "title": "Інше" }
+  ],
+  "session_price_uah": 600.00
+}

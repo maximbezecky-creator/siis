@@ -1,0 +1,152 @@
+[
+  {
+    "sender_name": "Олена Петренко",
+    "sender_phone": "+380 97 123 4567",
+    "sender_avatar": "https://randomuser.me/api/portraits/women/44.jpg",
+    "text": "Добрий день! Надсилаю фото з нашої зустрічі. Чекаю на відповідь.",
+    "media": {
+      "type": "image",
+      "url": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=800&q=80"
+    }
+  },
+  {
+    "sender_name": "Іван Коваль",
+    "sender_phone": "+380 50 987 6543",
+    "sender_avatar": "https://randomuser.me/api/portraits/men/32.jpg",
+    "text": "Привіт! Ось цікаве зображення, яке знайшов у мережі. Поділись думкою.",
+    "media": {
+      "type": "image",
+      "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80"
+    }
+  },
+  {
+    "sender_name": "Марія Шевченко",
+    "sender_phone": "+380 63 555 1212",
+    "sender_avatar": "https://randomuser.me/api/portraits/women/68.jpg",
+    "text": "Вітаю! Переглянь, будь ласка, це відео – воно дуже актуальне для нашого проєкту.",
+    "media": {
+      "type": "video",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+    }
+  },
+  {
+    "sender_name": "Андрій Бойко",
+    "sender_phone": "+380 67 789 1011",
+    "sender_avatar": "https://randomuser.me/api/portraits/men/46.jpg",
+    "text": "Слухай, я зробив запис нашого обговорення – ось аудіофайл.",
+    "media": {
+      "type": "audio",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+    }
+  },
+  {
+    "sender_name": "Наталія Мороз",
+    "sender_phone": "+380 73 444 5566",
+    "sender_avatar": "",
+    "text": "Підтвердь, будь ласка, участь у завтрашній нараді. Ось посилання на матеріали (скрін).",
+    "media": {
+      "type": "image",
+      "url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=800&q=80"
+    }
+  },
+  {
+    "sender_name": "Тарас Гриценко",
+    "sender_phone": "+380 99 333 2244",
+    "sender_avatar": "https://randomuser.me/api/portraits/men/22.jpg",
+    "text": "Привіт, надсилаю фото з вчорашнього заходу. Як тобі?",
+    "media": {
+      "type": "image",
+      "url": "https://images.unsplash.com/photo-1511578314322-379afb476865?auto=format&fit=crop&w=800&q=80"
+    }
+  },
+  {
+    "sender_name": "Юлія Лисенко",
+    "sender_phone": "+380 96 777 8899",
+    "sender_avatar": "https://randomuser.me/api/portraits/women/29.jpg",
+    "text": "Ось відеоінструкція, яку ми обговорювали. Дуже корисна річ!",
+    "media": {
+      "type": "video",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    }
+  },
+  {
+    "sender_name": "Сергій Павленко",
+    "sender_phone": "+380 68 222 3344",
+    "sender_avatar": "",
+    "text": "Добрий вечір! Записую для вас голосове повідомлення – прошу прослухати.",
+    "media": {
+      "type": "audio",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+    }
+  },
+  {
+    "sender_name": "Оксана Данилюк",
+    "sender_phone": "+380 50 111 2233",
+    "sender_avatar": "https://randomuser.me/api/portraits/women/12.jpg",
+    "text": "Вітаю! Надсилаю графік роботи на наступний тиждень (скріншот).",
+    "media": {
+      "type": "image",
+      "url": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?auto=format&fit=crop&w=800&q=80"
+    }
+  },
+  {
+    "sender_name": "Олег Кравченко",
+    "sender_phone": "+380 63 888 9900",
+    "sender_avatar": "https://randomuser.me/api/portraits/men/85.jpg",
+    "text": "Привіт! Ось цікаве відео з тренінгу. Рекомендую подивитися.",
+    "media": {
+      "type": "video",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+    }
+  },
+  {
+    "sender_name": "Ганна Федоренко",
+    "sender_phone": "+380 98 555 6677",
+    "sender_avatar": "https://randomuser.me/api/portraits/women/63.jpg",
+    "text": "Підготувала для вас аудіозвіт – можна прослухати у зручний час.",
+    "media": {
+      "type": "audio",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+    }
+  },
+  {
+    "sender_name": "Михайло Савченко",
+    "sender_phone": "+380 97 666 7788",
+    "sender_avatar": "",
+    "text": "Доброго дня! Ось фотографії з нашого об'єкту. Чекаю на ваші коментарі.",
+    "media": {
+      "type": "image",
+      "url": "https://images.unsplash.com/photo-1541888946425-d0fbb186a5b3?auto=format&fit=crop&w=800&q=80"
+    }
+  },
+  {
+    "sender_name": "Катерина Руденко",
+    "sender_phone": "+380 73 444 5566",
+    "sender_avatar": "https://randomuser.me/api/portraits/women/90.jpg",
+    "text": "Надсилаю відео з презентацією. Будь ласка, перегляньте перед зустріччю.",
+    "media": {
+      "type": "video",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    }
+  },
+  {
+    "sender_name": "Вікторія Потапенко",
+    "sender_phone": "+380 50 333 4455",
+    "sender_avatar": "https://randomuser.me/api/portraits/women/26.jpg",
+    "text": "Вітаю! Це аудіо з моїми коментарями до звіту. Сподіваюсь, буде зрозуміло.",
+    "media": {
+      "type": "audio",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3"
+    }
+  },
+  {
+    "sender_name": "Василь Козачук",
+    "sender_phone": "+380 63 222 3344",
+    "sender_avatar": "",
+    "text": "Привіт! Надсилаю відео з помилкою у системі. Допоможіть вирішити.",
+    "media": {
+      "type": "video",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+    }
+  }
+]

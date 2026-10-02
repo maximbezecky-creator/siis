@@ -1,0 +1,26 @@
+{
+  "account_info": {
+    "balance_uah": 2500.00,
+    "session_price_uah": 266.00,
+    "sessions_left": 9,
+    "days_until_payment": "001"
+  },
+  "transactions": [
+    {
+      "time": "01.10.2026 12:00",
+      "type": "credit",
+      "amount_uah": 2400.00,
+      "sender": "Картка **** 1234",
+      "receiver": "Психологічний центр Франції",
+      "comment": "Поповнення балансу"
+    },
+    {
+      "time": "15.10.2026 14:30",
+      "type": "debit",
+      "amount_uah": 600.00,
+      "sender": "Психологічний центр",
+      "receiver": "Коваленко О. П.",
+      "comment": "Оплата сесії 15.10.2026"
+    }
+  ]
+}
