@@ -4,7 +4,10 @@
       "id": 1,
       "name": "Євген Мілер",
       "position": "технічний фахівець",
-      "phones": ["+500 30 303", "089 050 5050"],
+      "phones": [
+        "+500 30 303",
+        "089 050 5050"
+      ],
       "avatar": "~/Downloads/ssd/miller-evg.jpg",
       "schedule": [
         {
@@ -38,8 +41,11 @@
       "id": 2,
       "name": "Єлизавета Байда",
       "position": "технічний фахівець та представник у м. Чернігові",
-      "phones": ["+500 50 505", "046 2830 181"],
-      "avatar": "~/Downloads/ssd/єлизавета.png",
+      "phones": [
+        "+500 50 505",
+        "046 2830 181"
+      ],
+      "avatar": "~/Downloads/ssd/yelyzaveta.png",
       "schedule": [
         {
           "date": "2026-09-11",
@@ -67,8 +73,10 @@
       "id": 3,
       "name": "Дмитро Знайда",
       "position": "технічний фахівець",
-      "phones": ["+500 05 050"],
-      "avatar": "~/Downloads/ssd/дмитро.jpeg",
+      "phones": [
+        "+500 05 050"
+      ],
+      "avatar": "~/Downloads/ssd/dmytro.jpeg",
       "schedule": [
         {
           "date": "2026-09-10",
@@ -101,8 +109,10 @@
       "id": 4,
       "name": "Генадій Ларін",
       "position": "технічний фахівець",
-      "phones": ["091 444 3233"],
-      "avatar": "~/Downloads/ssd/гена.png",
+      "phones": [
+        "091 444 3233"
+      ],
+      "avatar": "~/Downloads/ssd/hena.png",
       "schedule": [
         {
           "date": "2026-09-12",
@@ -130,8 +140,10 @@
       "id": 5,
       "name": "Катерина Бондаренко",
       "position": "Служба підтримки",
-      "phones": ["+500 99 999"],
-      "avatar": "~/Downloads/ssd/катерина.jpg",
+      "phones": [
+        "+500 99 999"
+      ],
+      "avatar": "~/Downloads/ssd/kateryna.jpg",
       "schedule": [
         {
           "date": "2026-09-10",
@@ -164,8 +176,10 @@
       "id": 6,
       "name": "Михайло Коваленко",
       "position": "Служба підтримки",
-      "phones": ["+500 85 858"],
-      "avatar": "~/Downloads/ssd/михаил.jpg",
+      "phones": [
+        "+500 85 858"
+      ],
+      "avatar": "~/Downloads/ssd/mykhayl.jpg",
       "schedule": [
         {
           "date": "2026-09-11",
@@ -198,8 +212,11 @@
       "id": 7,
       "name": "Вероніка Коваленко",
       "position": "Кліничний психолог",
-      "phones": ["+500 00 232", "089 007 0707"],
-      "avatar": "~/Downloads/ssd/вероника.png",
+      "phones": [
+        "+500 00 232",
+        "089 007 0707"
+      ],
+      "avatar": "~/Downloads/ssd/veronyka.png",
       "schedule": [
         {
           "date": "2026-09-10",
@@ -227,8 +244,10 @@
       "id": 8,
       "name": "Анастасія Ткаченко",
       "position": "Психолог",
-      "phones": ["+500 49 494"],
-      "avatar": "~/Downloads/ssd/анастатия.jpeg",
+      "phones": [
+        "+500 49 494"
+      ],
+      "avatar": "~/Downloads/ssd/anastatyya.jpeg",
       "schedule": [
         {
           "date": "2026-09-12",
@@ -256,7 +275,9 @@
       "id": 9,
       "name": "Олена Марковська",
       "position": "Психолог загальної практики",
-      "phones": ["077 414 7050"],
+      "phones": [
+        "077 414 7050"
+      ],
       "avatar": "~/Downloads/ssd/olena.png",
       "schedule": [
         {
@@ -290,8 +311,10 @@
       "id": 10,
       "name": "Андрій Шерудило",
       "position": "Клінічний психолог та невролог",
-      "phones": ["075 595 9590"],
-      "avatar": "~/Downloads/ssd/андрій.png",
+      "phones": [
+        "075 595 9590"
+      ],
+      "avatar": "~/Downloads/ssd/andriy.png",
       "schedule": [
         {
           "date": "2026-09-10",
@@ -319,8 +342,10 @@
       "id": 11,
       "name": "Дмитро Бойко",
       "position": "Технічний фахівець МЕДІАЛІНК",
-      "phones": ["+500 30 303"],
-      "avatar": "~/Downloads/ssd/дмитро2.png",
+      "phones": [
+        "+500 30 303"
+      ],
+      "avatar": "~/Downloads/ssd/dmytro2.png",
       "schedule": [
         {
           "date": "2026-09-13",
@@ -353,7 +378,10 @@
       "id": 12,
       "name": "Анжеліка Чапаєва",
       "position": "Секретар",
-      "phones": ["+500 44 444", "089 049 4949"],
+      "phones": [
+        "+500 44 444",
+        "089 049 4949"
+      ],
       "avatar": "",
       "schedule": [
         {
@@ -382,8 +410,10 @@
       "id": 13,
       "name": "Марк Мороз",
       "position": "Представник у м. Запоріжжі",
-      "phones": ["+500 82 828"],
-      "avatar": "~/Downloads/ssd/марк.webp",
+      "phones": [
+        "+500 82 828"
+      ],
+      "avatar": "~/Downloads/ssd/mark.webp",
       "schedule": [
         {
           "date": "2026-09-11",
@@ -411,8 +441,10 @@
       "id": 14,
       "name": "Юлія Приходько",
       "position": "Представник у м. Харкові",
-      "phones": ["+500 88 888"],
-      "avatar": "~/Downloads/ssd/юлия.webp",
+      "phones": [
+        "+500 88 888"
+      ],
+      "avatar": "~/Downloads/ssd/yulyya.webp",
       "schedule": [
         {
           "date": "2026-09-10",
@@ -445,8 +477,10 @@
       "id": 15,
       "name": "Володимир Романенко",
       "position": "Представник у м. Києві",
-      "phones": ["+500 93 939"],
-      "avatar": "~/Downloads/ssd/Володимир.png",
+      "phones": [
+        "+500 93 939"
+      ],
+      "avatar": "~/Downloads/ssd/volodymyr.png",
       "schedule": [
         {
           "date": "2026-09-11",
@@ -474,8 +508,10 @@
       "id": 16,
       "name": "Світлана Павленко",
       "position": "Представник у м. Львові",
-      "phones": ["+500 38 383"],
-      "avatar": "~/Downloads/ssd/Світлана.png",
+      "phones": [
+        "+500 38 383"
+      ],
+      "avatar": "~/Downloads/ssd/svitlana.png",
       "schedule": [
         {
           "date": "2026-09-10",
@@ -508,8 +544,10 @@
       "id": 17,
       "name": "Богдан Сидоренко",
       "position": "Сіноптик",
-      "phones": ["+500 52 525"],
-      "avatar": "~/Downloads/ssd/Богдан.png",
+      "phones": [
+        "+500 52 525"
+      ],
+      "avatar": "~/Downloads/ssd/bohdan.png",
       "schedule": [
         {
           "date": "2026-09-12",
@@ -537,8 +575,10 @@
       "id": 18,
       "name": "Тетяна Грищенко",
       "position": "Медичний консультант",
-      "phones": ["+500 56 565"],
-      "avatar": "~/Downloads/ssd/Тетяна.png",
+      "phones": [
+        "+500 56 565"
+      ],
+      "avatar": "~/Downloads/ssd/tetyana.png",
       "schedule": [
         {
           "date": "2026-09-10",
@@ -571,8 +611,10 @@
       "id": 19,
       "name": "Євген Карпенко",
       "position": "Юридичний консультант",
-      "phones": ["+500 24 242"],
-      "avatar": "~/Downloads/ssd/євген.png",
+      "phones": [
+        "+500 24 242"
+      ],
+      "avatar": "~/Downloads/ssd/yevhen.png",
       "schedule": [
         {
           "date": "2026-09-11",
@@ -605,8 +647,10 @@
       "id": 20,
       "name": "Максим Чорних",
       "position": "Технічна підтримка",
-      "phones": ["+500 14 141"],
-      "avatar": "~/Downloads/ssd/максим.png",
+      "phones": [
+        "+500 14 141"
+      ],
+      "avatar": "~/Downloads/ssd/maksym.png",
       "schedule": [
         {
           "date": "2026-09-10",
@@ -639,8 +683,10 @@
       "id": 21,
       "name": "Олександр Хорушко",
       "position": "Підтримка телебачення та радіо",
-      "phones": ["+500 92 929"],
-      "avatar": "~/Downloads/ssd/олександр.png",
+      "phones": [
+        "+500 92 929"
+      ],
+      "avatar": "~/Downloads/ssd/oleksandr.png",
       "schedule": [
         {
           "date": "2026-09-11",
@@ -673,8 +719,10 @@
       "id": 22,
       "name": "Павло Волощук",
       "position": "спеціаліст в області радіотехніки",
-      "phones": ["+500 76 767"],
-      "avatar": "~/Downloads/ssd/павло.png",
+      "phones": [
+        "+500 76 767"
+      ],
+      "avatar": "~/Downloads/ssd/pavlo.png",
       "schedule": [
         {
           "date": "2026-09-10",
@@ -707,8 +755,10 @@
       "id": 23,
       "name": "Катерина Лещенко",
       "position": "бухгалтер",
-      "phones": ["+500 35 353"],
-      "avatar": "~/Downloads/ssd/катерина2.png",
+      "phones": [
+        "+500 35 353"
+      ],
+      "avatar": "~/Downloads/ssd/kateryna2.png",
       "schedule": [
         {
           "date": "2026-09-11",
@@ -736,7 +786,9 @@
       "id": 24,
       "name": "Максим Богданов",
       "position": "Засновник ЛІНКОМ-3000 та технічний спеціаліст у Кушугумі",
-      "phones": ["+500 09 999"],
+      "phones": [
+        "+500 09 999"
+      ],
       "avatar": "",
       "schedule": [
         {
@@ -765,8 +817,10 @@
       "id": 25,
       "name": "Ніна Прокопенко",
       "position": "представник компанії у Кушугумі",
-      "phones": ["089 977 9770"],
-      "avatar": "~/Downloads/ssd/ніна.png",
+      "phones": [
+        "089 977 9770"
+      ],
+      "avatar": "~/Downloads/ssd/nina.png",
       "schedule": [
         {
           "date": "2026-09-12",
@@ -799,7 +853,9 @@
       "id": 26,
       "name": "Олександра Нова",
       "position": "психіатр та психолог для літніх людей",
-      "phones": ["+500 55 228"],
+      "phones": [
+        "+500 55 228"
+      ],
       "avatar": "~/Downloads/ssd/olexandra.png",
       "schedule": [
         {
@@ -833,7 +889,9 @@
       "id": 27,
       "name": "Наталія Білицька",
       "position": "технічна підтримка",
-      "phones": ["+500 90 092"],
+      "phones": [
+        "+500 90 092"
+      ],
       "avatar": "~/Downloads/ssd/natalia.png",
       "schedule": [
         {
@@ -867,8 +925,10 @@
       "id": 28,
       "name": "Галина Ганжа",
       "position": "технічна підтримка",
-      "phones": ["+500 07 188"],
-      "avatar": "~/Downloads/ssd/галина.png",
+      "phones": [
+        "+500 07 188"
+      ],
+      "avatar": "~/Downloads/ssd/halyna.png",
       "schedule": [
         {
           "date": "2026-09-10",
@@ -896,8 +956,10 @@
       "id": 29,
       "name": "Ульяна Міцна",
       "position": "юристка",
-      "phones": ["+500 40 404"],
-      "avatar": "~/Downloads/ssd/ульяна.png",
+      "phones": [
+        "+500 40 404"
+      ],
+      "avatar": "~/Downloads/ssd/ulyana.png",
       "schedule": [
         {
           "date": "2026-09-11",
@@ -930,7 +992,9 @@
       "id": 30,
       "name": "Єлизавета Панчих",
       "position": "представник у Космічному районі м. Запоріжжя",
-      "phones": ["089 570 5709"],
+      "phones": [
+        "089 570 5709"
+      ],
       "avatar": "",
       "schedule": [
         {
